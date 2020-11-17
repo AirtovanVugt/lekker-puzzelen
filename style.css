@@ -16,6 +16,10 @@ body{
 	position: relative;
 }
 
+#puzzle:hover{
+	margin-left: 400px;
+}
+
 img{
 	vertical-align: top;
 }
@@ -32,7 +36,6 @@ img:nth-of-type(12){
 	top: 83px;
 	display: block;
 }
-
 
 img:nth-of-type(13){
 	position: absolute;
